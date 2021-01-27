@@ -1,5 +1,5 @@
 # This App Service example will download a file from Azure blob storage using User Assigned Managed Identity and Azure blob storage Java SDK.
-**To run this code**
+
 
 # Pre-requisites
 Storage account created (Gen purpose v2)
