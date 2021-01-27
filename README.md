@@ -1,4 +1,4 @@
-# This App Service example will download a file from Azure blob storage using ==User== Assigned Managed Identity and Azure blob storage Java SDK.
+# This App Service example will download a file from Azure blob storage using <span style="background-color: #FFFF00">User</span> Assigned Managed Identity and Azure blob storage Java SDK.
 
 
 # Pre-requisites
