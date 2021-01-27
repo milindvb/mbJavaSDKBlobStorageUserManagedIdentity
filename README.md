@@ -1,0 +1,2 @@
+# mbJavaSDKBlobStorageManagedIdentity
+# mbJavaSDKBlobStorageUserManagedIdentity
