@@ -10,6 +10,8 @@ Sample file present in the container for download
 
 User Assigned Managed Identity created
 
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/how-to-manage-ua-identity-portal#create-a-user-assigned-managed-identity
+
 # Clone and update files
 
 
@@ -36,9 +38,6 @@ mvn clean package -DskipTests
 # Deploy webapp
 
 mvn azure-webapp:deploy
-
-
-# In webapp, enable System Assigned Managed identity
 
 
 # In storage account
